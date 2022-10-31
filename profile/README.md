@@ -1,3 +1,11 @@
-![NeherData Logo](https://github.com/neherdata.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/neherdata.png">
+</p>
 
-## Neher Data Systems
+<p style="text-align:center" >
+  <b><h1>Neher Data Systems</h1></b>
+  <i>An agile and affordable data science and cybersecurity consultancy out to solve your problems when standard tech support can’t! </i>
+</p>
+
+
+[Website](http://www.neherdata.com) • [Email Us](mailto:tyler@neherdata.com?cc=joe@neherdata.com&subject=Contact%20Us%20-%20Found%20on%20GitHub) • [Twitter](https://twitter.com/neherdata) • [Facebook](https://www.facebook.com/neherdata) • [Instagram](https://instagram.com/neherdata)
