@@ -9,3 +9,21 @@
 </p>
 
 [Website](http://www.neherdata.com) • [Email Us](mailto:tyler@neherdata.com?cc=joe@neherdata.com&subject=Contact%20Us%20-%20Found%20on%20GitHub) • [Twitter](https://twitter.com/neherdata) • [Facebook](https://www.facebook.com/neherdata) • [Instagram](https://instagram.com/neherdata)
+
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.3083381, -74.0697506]
+      }
+    }
+  ]
+}
